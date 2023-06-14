@@ -1,0 +1,112 @@
+.reviews {
+  background-color: rgba(31, 28, 29, 1);
+  margin-top: 0;
+}
+
+.reviews-container {
+  width: 1500px;
+}
+
+.reviews-label {
+  color:rgb(245,245,220);
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Yeseva One';
+  margin-top: 0;
+  padding-top: 52px;
+}
+.container {
+  position: relative;
+  max-width: 1286px;
+  margin: auto;
+  width: 90%;
+}
+
+.reviews-profile {
+  display: flex;
+  margin-left: 554px;
+  margin-bottom: 114px;
+}
+
+.reviews-profile-photo {
+  position: absolute;
+  max-width: 481px;
+  max-height: 331px;
+  top: 25px;
+  left: 180px;
+}
+
+.reviews-description {
+  padding: 109px 87px 100px 145px;
+  color:rgb(245, 245, 220);
+  background-color:black;
+}
+
+.reviews-description-name {
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.reviews-description-text {
+  font-size: 14px;
+  line-height: 23px;
+  width: 415px;
+  height: 92px;
+  text-align: left;
+}
+
+.reviews-description-info {
+  display: flex;
+  align-items: center;
+}
+
+.reviews-description-date {
+  color: #A07B50;
+  margin-right: 19px;
+}
+
+.reviews-button-next {
+  position: relative;
+  left: 7em;
+  top: 13.5em;
+  display: block;
+  border: none;
+  border-bottom: 2px solid rgba(160, 123, 80, 0.47);
+  border-right: 2px solid rgba(160, 123, 80, 0.47);
+  width: 21px;
+  height: 20px;
+  transform: rotate(-47deg);
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.reviews-button-back {
+  position: relative;
+  left: -73em;
+  top: 13.5em;
+  display: block;
+  border: none;
+  border-top: 2px solid rgba(160, 123, 80, 0.47);
+  border-left: 2px solid rgba(160, 123, 80, 0.47);
+  width: 21px;
+  height: 20px;
+  transform: rotate(-47deg);
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.reviews-button-back:hover,
+.reviews-button-next:hover {
+  border-color: white;
+}
+
+.reviews-description-socials {
+  border: 1px solid #A07B50;
+  margin-left: 17px;
+  width: 28px;
+  height: 28px;
+  align-items: center;
+}
+
+.reviews-soclink {
+  margin-top: 7px;
+  margin-left: 5px;
+}

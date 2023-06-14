@@ -1,0 +1,94 @@
+.users-reviews {
+  color:rgb(245,245,220);
+  font-size: 45px;
+  margin-left: 850px;
+  margin-top: 0;
+  padding-top: 45px;
+}
+
+.more-photos {
+  background-color: rgba(31, 28, 29, 1);
+  padding-bottom: 45px;
+}
+
+.img-rev {
+  width: 500px;
+  height: 300px;
+}
+
+.review-block {
+  background-color: #fff;
+  max-width: 500px;
+  height: 300px;
+  padding: 15px;
+}
+
+.review-head {
+  display: flex;
+}
+
+.review-ava {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  
+}
+
+.review-name {
+  width:auto;
+  margin: 0;
+  margin-left: 20px;
+}
+
+.review-user-info {
+  display: block;
+}
+
+.review-view-author {
+  margin-left: 20px;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  margin-top: 2px;
+  color:#878787;
+}
+
+.review-rate {
+  margin-top: 4px;
+  margin-left: 20px;
+
+}
+
+.review-date {
+  margin-left: 10px;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+    margin-top: 2px;
+    color: #878787;
+}
+
+.review-star {
+  margin-right: 4px;
+}
+
+.scrollbar {
+  margin-left: 70px;
+  overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.svgshka {
+  transform: rotate(180deg);
+  margin-left: 30px;
+}
+
+.like-dis {
+  margin-left: 70px;
+}
+
+.like-dis-counter {
+  color:#878787;
+  font-size: 15px;
+  margin-left: 5px;
+}

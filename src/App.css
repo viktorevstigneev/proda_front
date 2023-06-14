@@ -1,0 +1,9 @@
+@font-face {
+	font-family: AmaticSC;
+	src: url('./fonts/PTSansNarrow-Regular.ttf');
+}
+
+.swiper-horizontal {
+
+	width: 100% !important;
+}

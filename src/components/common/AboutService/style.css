@@ -1,0 +1,91 @@
+.bonus {
+  background-color: rgba(24, 22, 23, 1);
+}
+
+.bonus-container {
+  /* max-width: 1286px; */
+  width: 100%;
+}
+
+.bonus-img {
+  margin-left: 100px;
+  margin-top: 30px;
+  width: 120px;
+  height: 120px;
+  border-radius:90px;
+}
+
+.bonus-label {
+  color: rgb(245,245,220);
+  padding-top: 83px;
+  font-family: 'Yeseva One';
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  margin-bottom: 23px;
+  margin-top: 0;
+}
+
+.bonus-description {
+  color: #A07B50;
+  text-align: center;
+  margin-bottom: 43px;
+}
+
+.bonus-list {
+      width: 100%;
+    overflow-x: scroll;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  padding: 0%;
+  margin-bottom: 0px;
+  justify-content: space-around;
+}
+
+.bonus-list-link {
+  text-decoration: none;
+}
+
+.bonus-list-item {
+  border: none;
+  width: 360px;
+  height: 301px;
+  padding-top: 17px;
+  background-color: rgba(31, 28, 29, 1);
+  margin-bottom: 90px;
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.bonus-list-item-center {
+  width: 320px;
+  height: 267px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.bonus-list-svg {
+  color: rgba(160, 123, 80, 1);
+  margin-left: 111px;
+  margin-top: 47px;
+}
+
+.bonus-list-description {
+  text-align: center;
+  width: 233px;
+  margin-left: 44px;
+  margin-bottom: 24px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.bonus-list-item-center:hover {
+  background-color: #A07B50;
+}
+
+.bonus-list-item-center:hover .bonus-list-svg {
+  fill: white;
+}

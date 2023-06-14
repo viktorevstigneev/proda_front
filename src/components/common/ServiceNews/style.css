@@ -1,0 +1,29 @@
+.service-news {
+  background-color: rgba(24, 22, 23, 1);
+}
+.service-label {
+  color: rgb(245,245,220);
+  margin-top: 0;
+  margin-left: 800px;
+  padding-top: 65px;
+  font-size: 45px;
+}
+
+.container {
+   
+      position: relative;
+      max-width: 1286px;
+      margin: auto;
+      width: 90%;
+    }
+
+.service-galery {
+  margin-left: 150px;
+}
+.service-img {
+  border-radius:30px;
+  width:30%;
+  height: 300px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}

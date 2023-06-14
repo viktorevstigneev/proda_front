@@ -1,0 +1,10 @@
+.map {
+	background: white;
+	background-size: cover;
+	/* background: black; */
+	width: 99.9%;
+	margin: 0 auto;
+	/* height: 100%; */
+	border-top: 1px solid transparent;
+	margin-top: 140px;
+}
